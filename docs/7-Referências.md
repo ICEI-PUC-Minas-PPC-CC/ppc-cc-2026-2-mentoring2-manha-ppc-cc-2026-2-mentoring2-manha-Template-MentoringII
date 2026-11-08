@@ -1,17 +1,21 @@
-# Referências
+### Referências 
 
-Inclua todas as referências (livros, artigos, sites etc) utilizados no desenvolvimento do trabalho.
+BANCO MUNDIAL. Inclusive Education: Overview and Global Statistics. 2023. Disponível em: https://www.worldbank.org/en/brief/2025/03/31/inclusive-education. Acesso em: 2 set. 2026.
 
-As referências deverão ser apresentadas aqui, na ordem em que elas aparecem, nos textos dentro do repositório (a numeração também deve ser sequencial).
+INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. Matrículas na educação especial chegam a mais de 1,7 milhão. Brasília: Inep/MEC, 2024. Disponível em: https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/censo-escolar/matriculas-na-educacao-especial-chegam-a-mais-de-1-7-milhao. Acesso em: 6 set. 2026.
 
-Exemplos de referências:
+INSTITUTO RODRIGO MENDES. Painel de Indicadores da Educação Especial disponibiliza atualização de dados do Censo Escolar 2023. São Paulo: IRM, 2024. Disponível em: https://institutorodrigomendes.org.br/painel-indicadores-atualizacao-censo-2023/. Acesso em: 6 set. 2026.
 
-[1] ELMASRI, Ramez; NAVATHE, Sham. Sistemas de banco de dados. 7. ed. São Paulo: Pearson, c2019. E-book. ISBN 9788543025001. 
+UNESCO. Global Education Monitoring Report: Inclusion and education - All means all. Paris: UNESCO, 2020. Disponível em: https://unesdoc.unesco.org/ark:/48223/pf0000373718. Acesso em: 2 set. 2026.
 
-[2] CORMEN, Thomas H. et al. Algoritmos: teoria e prática. Rio de Janeiro, RJ: Elsevier, Campus, c2012. xvi, 926 p. ISBN 9788535236996.
+UNICEF. Seen, Counted, Included: Using data to shed light on the well-being of children with disabilities. New York: UNICEF, 2021. Disponível em: https://data.unicef.org/resources/children-with-disabilities-report-2021/. Acesso em: 2 set. 2026.
 
-> **Links Úteis**:
-> - [Normas ABNT PUC Minas](http://portal.pucminas.br/biblioteca/documentos/ABNT-Formatar-indicar-citacoes-e-referencia-las.pdf)
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+WORLD BANK GROUP. Disability Inclusion: Data and Global Trends. 2023. Disponível em: https://www.worldbank.org/ext/en/topic/social-development/disability-inclusion. Acesso em: 2 set. 2026.
+
+CÂMARA MUNICIPAL DE POÇOS DE CALDAS. Requerimento nº 3249/2026. Dispõe acerca das condições de acessibilidade física, pedagógica e comunicacional nas escolas da rede municipal de ensino. Poços de Caldas: Sistema SIAVE, 2026. Disponível em: https://siave.pocosdecaldas.mg.leg.br/. Acesso em: 2 set. 2026
+
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 17225:2025 – Acessibilidade em conteúdo e aplicações web: requisitos. Rio de Janeiro: ABNT, 2025. Disponível em: https://www2.camara.leg.br/a-camara/estruturaadm/gestao-na-camara-dos-deputados/responsabilidade-social-e-ambiental/acessibilidade/pdfs/ABNTNBR17225AcessibilidadeDigitalparaWeb.pdf. Acesso em: 6 set. 2026.
+
+WORLD WIDE WEB CONSORTIUM (W3C). Web Content Accessibility Guidelines (WCAG) 2.2. 2023. Disponível em: https://www.w3.org/TR/WCAG22/ Acesso em: 4 nov. 2026.
+
 

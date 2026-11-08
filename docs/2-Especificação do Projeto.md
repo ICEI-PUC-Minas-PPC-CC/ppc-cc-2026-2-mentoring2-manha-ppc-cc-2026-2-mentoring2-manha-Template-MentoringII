@@ -1,93 +1,52 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
 
 ## Personas
 
-Exemplo:
 
-|**Camila Fiães**|           |                             | 
-|-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+**1. A Gestora Escolar**
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
 
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
+|**Marta**|
+|:---:|
+|<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2026-2-mentoring2-manha-acessibilidade/blob/main/docs/img/persona-1.jpeg" width="200" height="200"/>|
+|**Perfil:** Marta, 48 anos, diretora de uma escola de médio porte em Poços de Caldas. <br><br>**Contexto:** Marta reconhece a importância da acessibilidade, mas não possui um levantamento organizado das condições arquitetônicas e tecnológicas da instituição. Embora perceba algumas dificuldades na rotina escolar, não sabe quais barreiras estão presentes nos ambientes e nos recursos disponíveis, nem como elas afetam a autonomia e a participação dos estudantes. <br><br>**Necessidade no projeto:** Precisa conhecer as condições de acessibilidade da escola por meio de um diagnóstico que identifique as barreiras arquitetônicas e tecnológicas existentes. Busca informações claras sobre as dificuldades de acesso, circulação e utilização dos espaços e equipamentos, que possam apoiar o planejamento de futuras melhorias. <br><br>**Aspectos que sua necessidade orienta no diagnóstico:** Verificar as condições de acesso à escola e aos ambientes, como salas de aula, biblioteca, banheiros e laboratório de informática, além da presença de obstáculos nos corredores e percursos. Observar as condições de acessibilidade de rampas, escadas, portas, banheiros e mobiliário, a existência e as condições da sinalização acessível e a disponibilidade e o funcionamento dos recursos tecnológicos de acessibilidade. Registrar as barreiras arquitetônicas e tecnológicas que demandam atenção.|
 
+
+**2. Os Pais ou Responsáveis**
+
+|**Roberto e Ana**|
+|:---:|
+|<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2026-2-mentoring2-manha-acessibilidade/blob/main/docs/img/persona-2-1.jpeg" width="200" height="200"/> <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2026-2-mentoring2-manha-acessibilidade/blob/main/docs/img/persona-2-2.jpeg" width="200" height="200"/>|
+|**Perfil:** Roberto e Ana, 39 e 41 anos, pais de um aluno com deficiência visual. <br><br>**Contexto:** Preocupam-se com as condições oferecidas pela escola para que seu filho circule com segurança e participe das atividades. Querem saber se há sinalização acessível, obstáculos nos percursos e computadores e materiais digitais que ele consiga utilizar. <br><br>**Necessidade no projeto:** Precisam conhecer as condições arquitetônicas e os recursos tecnológicos de acessibilidade disponíveis para o filho. Representam a perspectiva familiar, sem participar diretamente da investigação. <br><br>**Aspectos que sua necessidade orienta no diagnóstico:** Verificar as condições dos percursos, considerando obstáculos e dificuldades de orientação, além da existência de sinalização tátil e identificação acessível dos ambientes. Observar a disponibilidade e o funcionamento de leitores de tela nos computadores e a compatibilidade dos materiais digitais com os recursos utilizados pelo estudante, considerando o acesso e a utilização dos espaços e equipamentos com autonomia e segurança.|
+
+
+**3. O Estudante**
+
+**3. O Estudante**
+
+|**Lucas**|
+|:---:|
+|<img src="./img/persona-3.jpeg" width="200" height="200"/>|
+|**Perfil:** Lucas, 11 anos, aluno matriculado no ensino fundamental. <br><br>**Contexto:** Lucas necessita de condições de acessibilidade sensorial para participar das atividades e se deslocar com autonomia no ambiente escolar. O diagnóstico buscará identificar a disponibilidade e as condições de utilização de recursos como sinalização tátil nos pisos, livros em Braille, softwares de leitura de tela nos computadores e materiais didáticos acessíveis, sem pressupor sua ausência. <br><br>**Necessidade no projeto:** É um dos beneficiários dos resultados do diagnóstico. Suas necessidades orientam a identificação e o registro das condições existentes para transitar com segurança, aprender por meio de recursos táteis e tecnológicos e interagir com os colegas. Os resultados poderão subsidiar futuras melhorias, sem que o projeto desenvolva ou implemente soluções. <br><br>**Aspectos que sua necessidade orienta no diagnóstico:** Verificar a presença de obstáculos que dificultem seu deslocamento entre os ambientes escolares, a existência e a continuidade da sinalização tátil nos percursos e a identificação acessível de salas, banheiros e outros espaços utilizados na rotina escolar. Observar a disponibilidade de computadores com leitores de tela funcionando e a possibilidade de acessar e navegar pelos materiais digitais com esses recursos. Identificar barreiras que o façam depender de outras pessoas para circular ou utilizar os recursos tecnológicos.|
 ## Histórias de Usuários
 
-Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
+Com base nas personas, as histórias de usuários orientam o diagnóstico da acessibilidade arquitetônica e tecnológica das escolas, considerando as necessidades de Marta, de Roberto e Ana e a autonomia e segurança de Lucas.
 
-Exemplo:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Obs.1: Caso seu grupo não vá desenvolver uma solução de software, as seções "requisitos funcionais", "requisitos não funcionais" e "restrições" DEVERÃO ser REMOVIDAS.
-## Obs.2: Caso seu grupo não vá desenvolver algum atividade que demande, uma pesquisa de campo através de questinários, a seção "artefatos para levantamento de dados" DEVERÁ ser REMOVIDA.
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| O sistema deverá permitir o gerenciamento dos pacientes | ALTA | 
-|RF-002| O sistema deverá exibir todo histórico de atendimento do paciente   | ALTA |
-
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo | MÉDIA | 
-|RNF-002| o sistema deve processar requisições do usuário em, no máximo, 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-### Artefatos para levantamento de dados
-
-Nesta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
-
-Não se preocupe em descrever os resultados agora, eles deverão ser descritos apenas na seção "Detalhamento preliminar" (Etapa 03).
+| **EU COMO... (PERSONA)** | **QUERO/PRECISO... (NECESSIDADE)** | **PARA... (MOTIVO/VALOR)** |
+| --- | --- | --- |
+| Marta (Gestora Escolar) | conhecer as condições de acessibilidade da entrada e dos percursos entre os ambientes da escola | identificar barreiras que dificultam o acesso e a circulação dos estudantes |
+| Marta (Gestora Escolar) | conhecer as condições de acessibilidade de rampas, escadas, portas, banheiros e mobiliário | identificar limitações no acesso e na utilização dos espaços escolares |
+| Marta (Gestora Escolar) | verificar a existência e as condições da sinalização acessível | compreender se a escola oferece recursos adequados de orientação nos ambientes |
+| Marta (Gestora Escolar) | conhecer a disponibilidade e o funcionamento dos recursos tecnológicos de acessibilidade | identificar dificuldades que impedem os estudantes de utilizar os equipamentos e acessar os conteúdos digitais |
+| Marta (Gestora Escolar) | receber um registro organizado das barreiras arquitetônicas e tecnológicas encontradas | apoiar o planejamento de futuras melhorias na instituição |
+| Roberto e Ana (Pais/Responsáveis) | saber se os percursos utilizados por seu filho apresentam obstáculos ou dificuldades de orientação | conhecer as condições oferecidas para seu deslocamento com autonomia e segurança |
+| Roberto e Ana (Pais/Responsáveis) | saber se a escola possui sinalização tátil e identificação acessível dos ambientes | compreender se meu filho dispõe de recursos para se orientar nos espaços escolares |
+| Roberto e Ana (Pais/Responsáveis) | saber se existem leitores de tela disponíveis e funcionando nos computadores da escola | conhecer os recursos que meu filho pode utilizar nas atividades com tecnologia |
+| Roberto e Ana (Pais/Responsáveis) | saber se os materiais digitais são compatíveis com os recursos de acessibilidade utilizados pelo meu filho | compreender se ele consegue acessar os conteúdos das atividades escolares |
+| Lucas (Estudante) | encontrar percursos livres de obstáculos entre os ambientes da escola | me deslocar com autonomia e segurança |
+| Lucas (Estudante) | contar com sinalização tátil nos percursos e identificação acessível dos ambientes | me orientar e reconhecer os locais que preciso utilizar |
+| Lucas (Estudante) | conseguir acessar e utilizar os ambientes e o mobiliário da escola | participar das atividades com maior autonomia |
+| Lucas (Estudante) | utilizar computadores com leitores de tela disponíveis e funcionando | realizar as atividades escolares que dependem desses equipamentos |
+| Lucas (Estudante) | acessar e navegar pelos materiais digitais com o leitor de tela | acompanhar os conteúdos e participar das atividades propostas |
